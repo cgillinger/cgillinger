@@ -3,6 +3,8 @@
 Personal projects, built for my own use and published in case they are
 useful to others.
 
+I mainly code to try to serve personal needs, eg montitoring my personal backups, my server, managing my ebooks etc. Most of my projects have better professional solutions, but for one reason or another I've wanted something that I found was missing, so I made it myself tailored for my own needs. 
+
 #### 📚 Colophon
 
 [Colophon](https://github.com/cgillinger/colophon) — self-hosted e-book
