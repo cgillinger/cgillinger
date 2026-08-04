@@ -6,10 +6,18 @@ useful to others.
 #### 📚 Colophon
 
 [Colophon](https://github.com/cgillinger/colophon) — self-hosted e-book
-library and metadata manager with wireless Kobo sync. Fetches metadata and
-cover art, detects series, and includes an in-browser EPUB reader.
-Flask + Docker; a lightweight alternative to Calibre-Web that pairs with
-Komga and Kavita.
+library and metadata manager with wireless Kobo sync, cover art fetching
+and an in-browser EPUB reader. Flask + Docker; a lightweight alternative
+to Calibre-Web that pairs with Komga and Kavita.
+
+Its distinguishing feature is **AI as a librarian's assistant** — as far
+as I know, no other self-hosted book server has this. An LLM helps with
+the cataloguing problems regular metadata sources can't solve: series
+detection, metadata suggestions and author disambiguation. It is strictly
+**propose-only** — every suggestion lands in a review view where you
+approve field by field, and nothing is ever written to your library on
+the AI's say-so. Entirely optional, and works with any OpenAI-compatible
+provider or fully local Ollama for complete privacy.
 
 #### ✏️ SkitchG
 
