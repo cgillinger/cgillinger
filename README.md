@@ -34,7 +34,6 @@ written in plain HTML/JS without build steps or frameworks:
 
 | Plugin | What it shows |
 |--------|---------------|
-| 🔗 [cockpit-tailscale](https://github.com/cgillinger/cockpit_tailscale) | Tailscale network overview — device status, warnings, push alerts |
 | 🌡️ [cockpit-temps](https://github.com/cgillinger/cockpit_temp) | Hardware temperature history (CPU/NVMe) with thresholds, 120 days of PCP archives |
 | 💽 [cockpit-smart](https://github.com/cgillinger/cockpit_smart) | S.M.A.R.T. disk health for HDD/SSD/NVMe with history and trend detection |
 | ☁️ [cockpit-pcloud](https://github.com/cgillinger/cockpit-pcloud) | pCloud storage quota, account status and backup folder health |
